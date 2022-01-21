@@ -1,6 +1,4 @@
-Type a quick draft of your blog post. Remember, you can always edit it later.
-
 ---
-title: "Welcome to my blog"
+title: "Your blog post title"
 date: 2022-01-21
 ---
